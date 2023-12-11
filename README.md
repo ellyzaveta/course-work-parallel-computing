@@ -2,4 +2,4 @@
 
 <br />
 
-This project will be implemented in JAVA.
+new rep: https://github.com/ellyzaveta/course-work-pc
